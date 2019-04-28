@@ -10,6 +10,7 @@ const codes = [
   "b",
   "a"
 ];
+const alphabet = ['a', 'b','c'];
 
 let index = 0;
 
